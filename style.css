@@ -1,9 +1,9 @@
 #time,#date{
-  font-family : "Lucida Sans Unicode";
-  color       : white;
+  font-family : "Lucida Sans Unicode";  /*時計のフォント*/
+  color       : white;  /*時計の*/
   height      : 60px;
   width       : 250px;
-  background-color : #1e90ff;
+  background-color : #1e90ff;  /*時計全体の背景色*/
 }
 
 #time{
